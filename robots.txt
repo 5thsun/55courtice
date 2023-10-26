@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://www.5thsun.com/55courtice/sitemap.xml
